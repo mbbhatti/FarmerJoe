@@ -1,2 +1,2 @@
-*.js export-ignore linguist-generated=true
+*.js export-ignore linguist-generated=true filter=lfs diff=lfs merge=lfs text
 
