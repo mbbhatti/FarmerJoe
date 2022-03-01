@@ -1,3 +1,2 @@
-challenges.md  -diff -merge linguist-generated=true
-solution.js  -diff -merge linguist-generated=true
+*.js  -diff -merge linguist-generated=true
 
