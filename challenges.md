@@ -1,2 +1,2 @@
 
-## Challenge # 1 & 2 & 3
+## Challenge # 1
