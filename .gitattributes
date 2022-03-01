@@ -1,3 +1,2 @@
-challenges.md  -diff linguist-generated=true
-solution.js  -diff linguist-generated=true
+*.js linguist-generated=true
 
