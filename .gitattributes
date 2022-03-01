@@ -1,2 +1,2 @@
-*.js linguist-generated=true export-ignore
+*.js export-ignore linguist-generated=true
 
