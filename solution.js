@@ -1,1 +1,1 @@
-// Solution # 1 & 2 & 3
+// Solution # 1
