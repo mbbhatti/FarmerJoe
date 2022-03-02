@@ -1,4 +1,4 @@
 *.js linguist-generated=true
 package-lock.json linguist-generated=true linguist-detectable=false
-*.sch linguist-detectable=false
+*.md linguist-detectable=false
 
